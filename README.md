@@ -1,4 +1,4 @@
-###PDE4430_mobile_robotics_CW-2-ROBO
+### PDE4430_mobile_robotics_CW-2-ROBO
 
 Objective
 To create a mobile robot that can operate in either autonomous or teleoperator modes to move three distinct spheres inside the "pen" created by two walls.The robot must be able to move and interact with objects in the simulation and have a URDF file loaded into Gazebo with all the essential parameters established in order to perform the job or demonstrate that it could be achieved.
