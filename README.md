@@ -25,7 +25,7 @@ git clone https://github.com/MEGHA-MURALI/PDE4430_mobile_robotics_CW-2-ROBO
 source /path/to/catkin-ws/devel/setup.bash
 ```
 
-* Launch robo(URDF file) in Gazebo world
+* Launch robo(URDF file) in Gazebo world and using teleop script we can move the robot
 ```
 roslaunch robo robo.launch
 ```
@@ -36,3 +36,10 @@ roslaunch robo robo_gazebo.launch
 ```
 roslaunch robo robo_gazebo_teleop.launch 
 ```
+#Demo Link
+
+https://www.youtube.com/watch?v=47zv0VHdHwc
+
+##Reference:
+
+http://wiki.ros.org/urdf/Tutorials
